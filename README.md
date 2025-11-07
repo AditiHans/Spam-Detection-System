@@ -56,7 +56,8 @@ CFO Dashboard:
 Visualizes cost savings, ROI, and system efficiency metrics.
 
 Enables financial forecasting based on automation savings.
-🔗 Resources
+
+ Resources
 
 GitHub Repository: https://github.com/AditiHans/SpamDetectionSystem
 
