@@ -36,7 +36,9 @@ Label encoding for supervised learning.
 | **Visualization** | Power BI, Matplotlib, Figma    |
 | **Dashboarding**  | Power BI (CTO, CFO, CPO Views) |
 | **Environment**   | Cloud-hosted, Python 3.10+     |
+
 📈 Dashboards
+
 CTO Dashboard:
 
 Tracks spam detection rate, false positives, and model accuracy.
